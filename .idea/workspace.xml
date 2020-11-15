@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0a805d0-1289-4333-ba96-91c86780807c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/unfold.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontCenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/fontStyle.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jztI5aNrca0SvzrIe9epUArDsI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0a805d0-1289-4333-ba96-91c86780807c" name="Default Changelist" comment="" />
+      <created>1604818664414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604818664414</updated>
+      <workItem from="1604818665524" duration="2708000" />
+      <workItem from="1605403618426" duration="4808000" />
+    </task>
+    <task id="LOCAL-00001" summary="文字短的时候剧中显示，文字超过一行的时候居左显示">
+      <created>1604825882543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604825882543</updated>
+    </task>
+    <task id="LOCAL-00002" summary="内部尺寸首选最小宽度的实际应用">
+      <created>1604830167216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604830167216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="文字短的时候剧中显示，文字超过一行的时候居左显示" />
+    <MESSAGE value="内部尺寸首选最小宽度的实际应用" />
+    <option name="LAST_COMMIT_MESSAGE" value="内部尺寸首选最小宽度的实际应用" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1604830167093">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1604830167093" />
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1604830172938">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1604830172938" />
+    <state x="385" y="190" key="run.anything.popup" timestamp="1604825419004">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="385" y="190" key="run.anything.popup/0.23.1440.801@0.23.1440.801" timestamp="1604825419004" />
+  </component>
+</project>

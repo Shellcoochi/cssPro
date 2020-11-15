@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .content1{
+            height: 0;
+            overflow: hidden;
+            transition: height .25s;
+        }
+        #more:checked~.content1{
+            height: auto;
+        }
+        #more{
+            display: none;
+        }
+     /*过度效果样式：高度为0到100%或者到auto无法计算所以无法实现过度动画效果，可以利用max-height实现*/
+        .content{
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height .25s;
+        }
+        #check:checked~.content{
+            max-height: 666px;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <h1>任意高度元素的展开收起动画技术</h1>
+    <input type="checkbox" id="more">
+    <label for="more">
+        无过度效果更多
+    </label>
+    <p class="content1">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+        　　　　　　　Commodi optio sed eligendi repudiandae. Sequi debitis, totam, praesentium laudantium numquam eum
+        voluptatibus non eligendi saepe animi quibusdam delectus ab nostrum, perferendis libero eaque
+        magnam officia aperiam! Voluptate nam dolorem eligendi, quasi harum deserunt.
+        Quibusdam eveniet delectus optio deleniti maiores libero incidunt?
+    </p>
+</div>
+
+<div>
+    <input type="checkbox" id="check">
+    <label for="check">
+        过度效果更多
+    </label>
+    <p class="content">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+        　　　　　　　Commodi optio sed eligendi repudiandae. Sequi debitis, totam, praesentium laudantium numquam eum
+        voluptatibus non eligendi saepe animi quibusdam delectus ab nostrum, perferendis libero eaque
+        magnam officia aperiam! Voluptate nam dolorem eligendi, quasi harum deserunt.
+        Quibusdam eveniet delectus optio deleniti maiores libero incidunt?
+    </p>
+</div>
+</body>
+</html>
